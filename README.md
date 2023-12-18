@@ -30,13 +30,13 @@ A comprehensive Spring Boot application for managing student details using Servl
 ![MySQL Connection](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/Mysql.png)
 
 ### Error Handling - Example 1
-![Error Handling - Example 1](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/error_handling.png)
+![Error Handling - Example 1](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/handling.png)
 
 ### Error Handling - Example 2
-![Error Handling - Example 2](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/error_handlin1.png)
+![Error Handling - Example 2](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/handlin1.png)
 
 ### Error Handling - Example 3
-![Error Handling - Example 3](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/error_handling2.png)
+![Error Handling - Example 3](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/handling2.png)
 
 ## How to Run
 

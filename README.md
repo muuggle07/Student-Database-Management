@@ -15,17 +15,28 @@ A comprehensive Spring Boot application for managing student details using Servl
 ![Home Page](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/home.png)
 
 ### Add Student
-![Add Student](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/add_student.png)
+![Add Student](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/register.png)
 
 ### View Students
-![View Students](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/view_students.png)
+![View Students](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/display.png)
 
 ### Update Student
-![Update Student](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/update_student.png)
+![Update Student](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/update.png)
 
 ### Delete Student
-![Delete Student](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/delete_student.png)
+![Delete Student](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/delete.png)
 
+### MySQL Connection
+![MySQL Connection](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/Mysql.png)
+
+### Error Handling - Example 1
+![Error Handling - Example 1](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/error_handling.png)
+
+### Error Handling - Example 2
+![Error Handling - Example 2](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/error_handlin1.png)
+
+### Error Handling - Example 3
+![Error Handling - Example 3](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/error_handling2.png)
 
 ## How to Run
 

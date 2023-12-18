@@ -12,19 +12,19 @@ A comprehensive Spring Boot application for managing student details using Servl
 ## Screenshots
 
 ### Home Page
-![Home Page](Student Management System/screenshots/home.png)
+![Home Page](screenshots/home.png)
 
 ### Add Student
-![Add Student](Student\ Management\ System/screenshots/register.png)
+![Add Student](screenshots/register.png)
 
 ### View Students
-![View Students](Student\ Management\ System/screenshots/display.png)
+![View Students](screenshots/display.png)
 
 ### Update Student
-![Update Student](Student\ Management\ System/screenshots/update.png)
+![Update Student](screenshots/update.png)
 
 ### Delete Student
-![Delete Student](Student\ Management\ System/screenshots/delete.png)
+![Delete Student](screenshots/delete.png)
 
 ## How to Run
 
@@ -38,13 +38,13 @@ A comprehensive Spring Boot application for managing student details using Servl
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Student-Management-System.git
+git clone https://github.com/your-username/spring-boot-student-management.git
 
 # Navigate to the project directory
-cd Student-Management-System
+cd spring-boot-student-management
 
 # Build the project
 mvn clean install
 
 # Run the application
-java -jar target/Student-Management-System.jar
+java -jar target/spring-boot-student-management.jar

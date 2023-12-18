@@ -12,19 +12,20 @@ A comprehensive Spring Boot application for managing student details using Servl
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/home.png)
 
 ### Add Student
-![Add Student](screenshots/register.png)
+![Add Student](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/add_student.png)
 
 ### View Students
-![View Students](screenshots/display.png)
+![View Students](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/view_students.png)
 
 ### Update Student
-![Update Student](screenshots/update.png)
+![Update Student](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/update_student.png)
 
 ### Delete Student
-![Delete Student](screenshots/delete.png)
+![Delete Student](https://github.com/muuggle07/Student-Database-Management/raw/main/Student%20Management%20System/screenshots/delete_student.png)
+
 
 ## How to Run
 

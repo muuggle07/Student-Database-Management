@@ -12,7 +12,7 @@ A comprehensive Spring Boot application for managing student details using Servl
 ## Screenshots
 
 ### Home Page
-![Home Page](Student\ Management\ System/screenshots/home.png)
+![Home Page](Student Management System/screenshots/home.png)
 
 ### Add Student
 ![Add Student](Student\ Management\ System/screenshots/register.png)
